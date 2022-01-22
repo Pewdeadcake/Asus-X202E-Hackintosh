@@ -1,5 +1,5 @@
 # Asus-X202E-Hackintosh
-![alt text](https://github.com/Pewdeadcake/Asus-X202E-Hackintosh/blob/main/screenshot.png?raw=true)
+![alt text](https://github.com/Pewdeadcake/Asus-X202E-Hackintosh/blob/Catalina/screenshot.png?raw=true)
 
 ## What is working normally
 ```
